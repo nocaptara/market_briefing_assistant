@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+yfinance
+bs4
+requests
+whisper
+pyttsx3
+streamlit
+langchain
+openai
+faiss-cpu
+python-dotenv
