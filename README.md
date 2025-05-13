@@ -15,7 +15,7 @@ As a result, some features, particularly those involving voice interaction and t
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7D33ejPL3Bw">
-    <img src="images/WhatsApp_Image_2025-05-13_at_00.17.04.jpeg" alt="Demo Image">
+    <img src="image.jpeg" alt="Demo Image">
   </a>
 </p>
 
